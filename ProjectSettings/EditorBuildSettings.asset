@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Addons/ULoginSystemPro/Content/Scenes/Login.unity
+    guid: 671edc3a53a245e4ea7c29ef6761dd38
+  - enabled: 1
+    path: Assets/MFPS/Scenes/MainMenu.unity
+    guid: fcfe9637e4043474a98d431ae71e26c2
+  - enabled: 1
+    path: Assets/MFPS/Scenes/Guanaco Desert.unity
+    guid: 7b433244bb0354246a7c6a8c682e5441
+  - enabled: 1
+    path: Assets/Addons/ClanSystem/Content/Scene/ClanMenu.unity
+    guid: 551bc25db9f0aa84386f60a4f8bec729
+  - enabled: 1
+    path: Assets/MFPS/Scenes/Warehouse.unity
+    guid: 1d35c8ff8df44934ab0d5619746c0699
+  - enabled: 1
+    path: Assets/Addons/ClassCustomization/Content/Scene/ClassCustomizer.unity
+    guid: 41f6fc88d0b6f3d429e09a120344900a
+  - enabled: 0
+    path: Assets/Addons/ULoginSystemPro/Content/Scenes/AdminPanel.unity
+    guid: ec49985b1089be941ae5200390a0ae7d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Addons/Customizer/Content/Scene/Customizer.unity
+    guid: 6811d73c02697a645ae6bf049f9c79e1
+  - enabled: 1
+    path: Assets/MFPS/Scenes/Docks.unity
+    guid: 354f5b355fc094f4e954c6e2ba94568f
+  - enabled: 1
+    path: Assets/Customized Controls/Customizable Controls.unity
+    guid: 1930465512f4fc94a96d8785e4a9abee
+  - enabled: 1
+    path: Assets/Map/Khrool/Scene/Khrool_Map.unity
+    guid: 703c3d6f71f57c54e93c8f3061b20629
+  m_configObjects: {}
