@@ -1,7 +1,7 @@
 # joshsolana
 Solana-based NFTs and cryptocurrency incorporated with J.O.S.H. 
 
-This repository is created for Ignite, the Solana Hackathon. 
+This repository is created for Ignition, the Solana Hackathon. 
 
 This repository contains no Asset files and some Library files.
 
