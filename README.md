@@ -7,8 +7,8 @@ This repository contains some Assets and some Library files, not all.
 
 
 
-Link to Solana (testnet) NFTs on sale: 
+Link to Solana (testnet) NFTs on sale: https://linktr.ee/joshsolnfts
 
 Link to Video Implementation:
 
-Link to Project Prototype: 
+Link to Project Prototype: https://drive.google.com/drive/folders/1MlXCPyuCKRwZRBNWcLU28fy7BJKDap7Z
