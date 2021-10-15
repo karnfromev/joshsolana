@@ -11,6 +11,6 @@ React-Solana refers to the DApp created to link Solana Wallet to Unity, so that 
 
 Link to Solana (testnet) NFTs on sale: https://linktr.ee/joshsolnfts
 
-Link to Video Implementation:
+Link to Video Implementation: https://youtu.be/g7II-Tzabec
 
 Link to Project Prototype: https://drive.google.com/drive/folders/1MlXCPyuCKRwZRBNWcLU28fy7BJKDap7Z
